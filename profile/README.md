@@ -17,7 +17,7 @@
 - [🚀 Rocket ETL](https://github.com/WPRDC/rocket-etl)
 - [Dataset Tracker](https://github.com/WPRDC/dataset-tracker) - keep track of dataset status
 - [Little Lexicographer](https://github.com/WPRDC/little-lexicographer) - make data dictionaries
-
+- [Pocket Watch](https://github.com/WPRDC/pocket-watch) - Command-line script that lists datasets on a CKAN instance that are overdue for updates.
 ### Our Architecture 
 ***🚧 Work in Progress 🚧***
 - [WPRDC CKAN Theme](https://github.com/WPRDC/ckanext-wprdc_theme)
