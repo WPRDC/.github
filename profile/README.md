@@ -1,5 +1,5 @@
 # Western Pennsylvania Regional Data Center
-[Website](https://www.wprdc.org)  |   [Data Warehouse](https://data.wprdc.org)
+[Website](https://www.wprdc.org)  |   [Data Warehouse](https://data.wprdc.org)  |  [Ops Repo](https://github.com/WPRDC/wprdc-ops)
 
 ## Resource and Documentation Repos
 - [Relevant Tools and Analyses](https://github.com/WPRDC/list-of-WPRDC-relevant-tools-and-analyses)
