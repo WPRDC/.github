@@ -5,6 +5,7 @@
 - [Relevant Tools and Analyses](https://github.com/WPRDC/list-of-WPRDC-relevant-tools-and-analyses)
 - [Utility Belt](https://github.com/WPRDC/utility-belt) - useful CKAN tools
 - [Scripts n'at](https://github.com/WPRDC/scripts-n-at) - collection of small scripts
+- [Overview of the WPRDC's CKAN Data API](https://github.com/WPRDC/WPRDC-data-API-overview) - how to get data from our data portal's API
 
 ## Our Project Repos
 ### Data Exploration Tools
