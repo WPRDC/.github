@@ -11,7 +11,7 @@
 ### Our Architecture 
 - [Main Website](https://github.com/wprdc/wprdc-apps)
 - [WPRDC CKAN Theme](https://github.com/WPRDC/ckanext-wprdc_theme)
-- [Our CKAN Setup](https://github.com/WPRDC/docker-ckan)
+- [Our CKAN Setup](https://github.com/WPRDC/ckan-docker)
 
 ### Data Exploration Tools
 - [🐈‍⬛ HouseCat](https://github.com/WPRDC/housecat) - data on affordable housing
