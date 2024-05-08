@@ -1,6 +1,8 @@
 # Western Pennsylvania Regional Data Center
 [Website](https://www.wprdc.org)  |   [Data Warehouse](https://data.wprdc.org)  |  [Ops Repo](https://github.com/WPRDC/wprdc-ops)
 
+[Code of Conduct](../CODE_OF_CONDUCT.md)
+
 ## Resource and Documentation Repos
 - [Relevant Tools and Analyses](https://github.com/WPRDC/list-of-WPRDC-relevant-tools-and-analyses)
 - [Utility Belt](https://github.com/WPRDC/utility-belt) - useful CKAN tools
