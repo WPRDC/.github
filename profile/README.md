@@ -11,15 +11,15 @@
 
 ## Our Project Repos
 ### Our Architecture 
-- [Main Website](https://github.com/wprdc/wprdc-apps)
+- [Main Website](https://github.com/WPRDC/wprdc-apps/tree/main/apps/website)
 - [WPRDC CKAN Theme](https://github.com/WPRDC/ckanext-wprdc_theme)
 - [Our CKAN Setup](https://github.com/WPRDC/ckan-docker)
 
 ### Data Exploration Tools
+- [App Development Monorepo](https://github.com/wprdc/wprdc-apps) - frontend libraries and apps that are early in development
 - [🐈‍⬛ HouseCat](https://github.com/WPRDC/housecat) - data on affordable housing
 - [Asset Map](https://github.com/WPRDC/asset-map) - community assets all in one map
 - [Neighborhood Simulacrum](https://github.com/WPRDC/neighborhood-simulacrum) - indicator framework backend
-- [App Development Monorepo](https://github.com/wprdc/wprdc-apps) - frontend libraries and apps that are early in development
 
 ### Our ETL Framework and Related Tools
 - [🚀 Rocket ETL](https://github.com/WPRDC/rocket-etl)
